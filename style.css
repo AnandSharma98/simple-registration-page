@@ -1,0 +1,39 @@
+body{
+    background-image: url(img/2nd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+}
+.simple-form{
+    text-align: center;
+    margin: 100px 400px;
+}
+
+#registeration{
+    width: 80%;
+    background-color:#051019;
+    opacity: 0.9;
+    padding: 40px 30px;
+}
+
+#button{
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    outline: 0px;
+}
+
+#but{
+    color: white;
+    font-size: 18px;
+}
+
+#butt{
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    outline: 0px;
+    background-color: royalblue;
+    border: 2px solid #010101;
+    color: rgb(240, 249, 255);
+    font-size: 18px;
+}
